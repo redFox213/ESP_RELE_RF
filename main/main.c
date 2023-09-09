@@ -7,4 +7,6 @@
 void app_main(void)
 {
     printf("Hello world");
+    //Привет пидорас 
+    //Как твои дела?
 }
